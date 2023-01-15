@@ -1,2 +1,2 @@
-# kdigital_datacollection
+# datacollection
 OPEN API / Web crawling
